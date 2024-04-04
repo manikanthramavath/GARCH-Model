@@ -1,8 +1,7 @@
 # GARCH-Model
 This script calculates the average annualized volatility of Nifty 50 stocks over two years using GARCH(1,1) models, fetching data from Yahoo Finance. Results are saved in an Excel file, offering insights into market dynamics.
 
-
-#Process
+# Process
 
 To create the analysis on the Nifty 50 stocks' volatility, we began by marking our timeline, setting today as our endpoint and tracing back two years to start. We then listed the current members of the Nifty 50, ensuring we had the latest lineup. 
 
